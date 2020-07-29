@@ -1,4 +1,4 @@
-const URL="http://localhost:8080/validacpf?cpf=";
+const URL="https://validadordecpfdoisidro.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
